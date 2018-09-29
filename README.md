@@ -1,5 +1,6 @@
 # NVFC
 
+![Image](https://i.imgur.com/5ZHpIv0.png)
 
 Open source tool for monitoring, configuring and overclocking NVIDIA GPUs
 

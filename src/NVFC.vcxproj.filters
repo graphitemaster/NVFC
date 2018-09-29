@@ -10,5 +10,6 @@
     <ClInclude Include="nvapi.h" />
     <ClInclude Include="gpu.h" />
     <ClInclude Include="log.h" />
+    <ClInclude Include="nuklear.h" />
   </ItemGroup>
 </Project>
