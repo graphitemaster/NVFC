@@ -9,7 +9,7 @@ All of the useful interfaces for controlling power states and fans with NvAPI is
 
 
 # Why
-The result of this effort is that there is now a sufficent base to build an open source tool that can monitor, configure and overclock NVIDIA GPUs that is lightweight and isn't branded like a tacky gamer product.
+The result of this effort is that there is now a sufficient base to build an open source tool that can monitor, configure and overclock NVIDIA GPUs that is lightweight and isn't branded like a tacky gamer product.
 
 Similarly, tools like EVGA Precision X and RivaTuner to name a few, often rely on injection techniques to provide functionality that most people don't need, such as an overlay. These injection techniques can often trigger anti-tamper and DRM solutions in video games, preventing them from ever running. NVFC doesn't have this problem.
 
